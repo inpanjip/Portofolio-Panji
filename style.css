@@ -29,7 +29,7 @@ body{
 }
 
 #skill{
-  background: #D8F3DC;
+  background: #bee5fa;
 }
 
 #contact{
@@ -79,7 +79,7 @@ nav{
 }
 
 .nav-links a:hover{
-  color: #95D5B2;
+  color: #bee5fa;
 }
 
 /* HERO */
@@ -151,7 +151,7 @@ nav{
 .hero-text .desc{
   font-size: 24px;
 
-  color: #B7E4C7;
+  color: #ffffff;
 
   margin-bottom: 18px;
 }
@@ -206,7 +206,7 @@ nav{
   white-space: nowrap;
   line-height: 1.1;
 
-  color: #1B4332;
+  color: #243E56;
   position: sticky;
   top: 300px;
 }
@@ -222,13 +222,13 @@ nav{
 /* ABOUT TEXT */
 
 .about-text{
-  background: #D8F3DC;
+  background: #bee5fa;
 
   padding: 34px;
 
   border-radius: 28px;
 
-  color: #1B4332;
+  color: #243E56;
 
   font-size: 18px;
 
@@ -281,7 +281,7 @@ nav{
 .skill-text h3{
   font-size: 28px;
 
-  color: #1B4332;
+  color: #243E56;
 
   margin-bottom: 12px;
 }
@@ -291,7 +291,7 @@ nav{
 
   line-height: 1.8;
 
-  color: #2D6A4F;
+  color: #243E56;
 }
 
 /* IMAGE */
@@ -321,7 +321,7 @@ nav{
 
   margin-bottom: 35px;
 
-  color: #1B4332;
+  color: #243E56;
 }
 
 .contact-item{
@@ -332,7 +332,7 @@ nav{
 
   text-decoration: none;
 
-  color: #1B4332;
+  color: #243E56;
 
   margin: 12px 0;
 }
